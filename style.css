@@ -1,0 +1,16 @@
+#city-input,
+#weather-output {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.banner {
+  color: #ffd23f;
+  font-family: sans-serif;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+  text-align: left;
+}
